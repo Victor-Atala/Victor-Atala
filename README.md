@@ -38,5 +38,5 @@ Plataforma educativa integral compuesta por 4 sistemas sincronizados:
 
 ### 📫 Contacto y Enlaces
 
-* 💼 **LinkedIn:** [linkedin.com/in/victor-gerardo-atala-lagunas-4a600024a](https://www.linkedin.com/in/victor-gerardo-atala-lagunas-4a600024a)
+* 💼 **LinkedIn:** www.linkedin.com/in/victor-atala
 * 📧 **Correo:** victoratala12@gmail.com
